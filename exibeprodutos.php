@@ -143,7 +143,7 @@ $qry = mysqli_query($con,$sql);
         <footer class="container">
         <hr>
     <p class="float-right"><a href="#" class="btn btn-lg- btn-black" type="submit">Voltar ao topo</a></p>
-    <p>&copy; 2017-2020 Eletronics LTDA</p>
+    <p>&copy; 2017-2025 Eletronics LTDA</p>
   </footer>
       </div>
     </div>
